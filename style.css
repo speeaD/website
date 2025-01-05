@@ -294,7 +294,7 @@ html {
     display: contents;
   }
   
-  .w-webflow-badge, .w-webflow-badge > img {
+  /* .w-webflow-badge, .w-webflow-badge > img {
     box-sizing: unset;
     width: unset;
     height: unset;
@@ -374,7 +374,7 @@ html {
     opacity: 1 !important;
     vertical-align: middle !important;
     display: inline-block !important;
-  }
+  } */
   
   h1, h2, h3, h4, h5, h6 {
     margin-bottom: 10px;
